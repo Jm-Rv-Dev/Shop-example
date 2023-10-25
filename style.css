@@ -103,6 +103,7 @@ thead{
     color: white;
     display: flex;
     position: absolute;
+    display: none;
 }
 
 #table-clear:hover{
